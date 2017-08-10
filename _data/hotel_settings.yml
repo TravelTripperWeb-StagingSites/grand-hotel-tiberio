@@ -1,17 +1,17 @@
-latitude: 40.7507385
-longitude: -73.97681210000002
+---
+latitude: 41.91277
+longitude: 12.43957
 map_zoom: 12
-name: "Paradise Hotel"
-email: "info@traveltripper.com"
-phone_number: "1-212-683-6161"
-  
+name: Grand Hotel Tiberio
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
 address:
-  city: "New York"
-  country: "United States"
-  state: "NY"
-  street1: "370 Lexington Ave"
-  street2: "Suite 1601"
-  zip_code: "10017"
-  
-_hotel_id: KEY24N #KEY24N, TTDEMO, HODE
-_portal_id: required-but-empty #24northhotel, demo, demohotel
+  street1: Via Lattanzio 51
+  street2: ''
+  state: ''
+  city: Rome
+  country: 
+  zip_code: '00136'
+_hotel_id: GRA762
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
